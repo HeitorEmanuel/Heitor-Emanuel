@@ -1,10 +1,11 @@
-# Olá! Eu sou Heitor 👋
+
+# Olá! Eu sou Heitor👋
 
 <!-- Banner de Boas-vindas Opcional -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bem-vindo%20ao%20meu%20Perfil!&fontSize=40" width="100%">
 
 ### 👩‍💻 Sobre Mim
-- 🎓 Estudando **Análise e Desenvolvimento de Dados**
+- 🎓 Estudando **Análise e Desenvolvimento de Dados**.
 - 🛠️ Atualmente focado no desenvolvimento de aplicações web com **Python** e **Django**.
 - 🎨 Apaixonado por tecnologia, organização e design focado na experiência do usuário.
 
@@ -17,9 +18,18 @@ Aqui estão algumas das ferramentas e linguagens que utilizo nos meus projetos:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img 
+</p>
+
 ---
 
+### 📊 Minhas Estatísticas do GitHub
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radial&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radial" />
+</p>
+
+---
 
 ### 📫 Vamos nos conectar?
 <p align="left">
