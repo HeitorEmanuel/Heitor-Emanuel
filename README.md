@@ -19,6 +19,8 @@ Aqui estão algumas das ferramentas e linguagens que utilizo nos meus projetos:
   <img 
 ---
 
+
+
 ### 📫 Vamos nos conectar?
 <p align="left">
   <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
